@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PWA-QrCode/precache-manifest.8f08e31bf61394b177fe99a1b5d95bf0.js"
+  "/PWA-QrCode/precache-manifest.7c910251e3aaab6f2ddae6b2eb6b8074.js"
 );
 
 workbox.clientsClaim();
