@@ -1,14 +1,14 @@
 {
-  "main.css": "/PWA-QrCode/static/css/main.91177226.chunk.css",
-  "main.js": "/PWA-QrCode/static/js/main.5cc51520.chunk.js",
-  "main.js.map": "/PWA-QrCode/static/js/main.5cc51520.chunk.js.map",
+  "main.css": "/PWA-QrCode/static/css/main.7d5e772c.chunk.css",
+  "main.js": "/PWA-QrCode/static/js/main.e9011395.chunk.js",
+  "main.js.map": "/PWA-QrCode/static/js/main.e9011395.chunk.js.map",
   "runtime~main.js": "/PWA-QrCode/static/js/runtime~main.b3e25f71.js",
   "runtime~main.js.map": "/PWA-QrCode/static/js/runtime~main.b3e25f71.js.map",
-  "static/js/2.3be85b2d.chunk.js": "/PWA-QrCode/static/js/2.3be85b2d.chunk.js",
-  "static/js/2.3be85b2d.chunk.js.map": "/PWA-QrCode/static/js/2.3be85b2d.chunk.js.map",
+  "static/js/2.b89a175b.chunk.js": "/PWA-QrCode/static/js/2.b89a175b.chunk.js",
+  "static/js/2.b89a175b.chunk.js.map": "/PWA-QrCode/static/js/2.b89a175b.chunk.js.map",
   "index.html": "/PWA-QrCode/index.html",
-  "precache-manifest.34766b1e16a03e77ccbf3f197fc3382d.js": "/PWA-QrCode/precache-manifest.34766b1e16a03e77ccbf3f197fc3382d.js",
+  "precache-manifest.8f08e31bf61394b177fe99a1b5d95bf0.js": "/PWA-QrCode/precache-manifest.8f08e31bf61394b177fe99a1b5d95bf0.js",
   "service-worker.js": "/PWA-QrCode/service-worker.js",
-  "static/css/main.91177226.chunk.css.map": "/PWA-QrCode/static/css/main.91177226.chunk.css.map",
+  "static/css/main.7d5e772c.chunk.css.map": "/PWA-QrCode/static/css/main.7d5e772c.chunk.css.map",
   "static/media/logo.svg": "/PWA-QrCode/static/media/logo.5d5d9eef.svg"
 }
