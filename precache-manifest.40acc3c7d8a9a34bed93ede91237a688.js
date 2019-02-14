@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/PWA-QrCode/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "b76b741543311f0b245c8833bcb106bc",
+    "revision": "b5d7fd1649b000ae0208eb7dc041c5ed",
     "url": "/PWA-QrCode/index.html"
   }
 ];
