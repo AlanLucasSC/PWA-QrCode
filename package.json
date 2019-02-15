@@ -4,7 +4,10 @@
   "private": true,
   "homepage": "https://AlanLucasSC.github.io/PWA-QrCode/",
   "dependencies": {
+    "@material-ui/core": "^1.5.1",
+    "firebase": "^5.8.3",
     "gh-pages": "^2.0.1",
+    "material-ui-icons": "^1.0.0-beta.36",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-qr-reader": "^2.1.2",

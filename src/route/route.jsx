@@ -3,6 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
 import QrCode from '../components/qrcode'
 import About from '../components/about/about'
+import ListUser from '../components/listTest'
 
 class Router extends Component {
 
@@ -10,8 +11,9 @@ class Router extends Component {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/" exact={true} component={About} />
-                <Route path="/qrcode" component={QrCode} />
+                <Route path="/PWA-QrCode/" exact={true} component={About} />
+                <Route path="/PWA-QrCode/qrcode" component={QrCode} />
+                <Route path="/PWA-QrCode/list" component={ListUser} />
                 <Route path='*' component={About} />
             </Switch>
         </ BrowserRouter>
