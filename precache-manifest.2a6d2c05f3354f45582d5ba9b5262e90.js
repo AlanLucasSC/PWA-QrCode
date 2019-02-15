@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "97dc03a9c72f5b8313cb",
+    "revision": "d3b7f2a0090502536706",
     "url": "/PWA-QrCode/static/css/main.7d5e772c.chunk.css"
   },
   {
-    "revision": "97dc03a9c72f5b8313cb",
-    "url": "/PWA-QrCode/static/js/main.97dc03a9.chunk.js"
+    "revision": "d3b7f2a0090502536706",
+    "url": "/PWA-QrCode/static/js/main.d3b7f2a0.chunk.js"
   },
   {
     "revision": "b3e25f71edae61775ecc",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/PWA-QrCode/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "ecad665f9c1937bd79d6fca0f60cdbd8",
+    "revision": "1090972893a6ec416c81876445ee6020",
     "url": "/PWA-QrCode/index.html"
   }
 ];
