@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom'
+
 import { firebaseDatabase } from '../../utils/firebaseUtils'
-import logo from './logo.svg';
 import './about.css';
+import Guest from '../../container/guest'
 
 class About extends Component {
    constructor(props){
@@ -31,24 +31,11 @@ class About extends Component {
 
    render() {
       return (
-         <div className='App'>
-            <header className='App-header'>
-               <img src={logo} className='App-logo' alt='logo' />
-               <h1 className='App-title'>Página de Sobre</h1>
-               <h2 className='App-title'> Link do github https://github.com/AlanLucasSC/PWA-QrCode </h2>
-               <Link to="/PWA-QrCode/qrcode">Ir para a página sobre \o/</Link>
-               <Link to="/PWA-QrCode/list">Lista de usuarios</Link>
-               <button
-                  type='button'
-                  onClick={() => {
-                     // context.history.push === history.push
-                     this.props.history.push('/PWA-QrCode/list')
-                  }}
-               >
-                  Lista de usuarios
-               </button>
-            </header>
-         </div>
+         <Guest>
+            <p>
+               About
+            </p>
+         </Guest>
       );
    }
 }
