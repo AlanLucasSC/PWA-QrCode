@@ -4,7 +4,7 @@ class Card extends Component {
     render(){
         return (
             <div className="post-preview">
-                <a href="post.html">
+                <a href="#">
                     <h2 className="post-title">
                         { this.props.title }
                     </h2>

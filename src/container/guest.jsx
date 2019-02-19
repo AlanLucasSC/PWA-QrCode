@@ -12,6 +12,8 @@ class Guest extends Component {
                 <Navigation>
                     <LinkNavigation href="/PWA-QrCode/qrcode"> QrCode </LinkNavigation>
                     <LinkNavigation href="/PWA-QrCode/list"> Lista </LinkNavigation>
+                    <LinkNavigation href="/PWA-QrCode/login"> Login </LinkNavigation>
+                    <LinkNavigation href="/PWA-QrCode/register"> Register </LinkNavigation>
                 </Navigation>
                 <GuestHeader/>
                 { this.props.children }
