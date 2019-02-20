@@ -10,7 +10,7 @@ export const Body = (props) => {
                         </div>
                         <div className="card-body">
                             <h5 className="card-title text-center">{ props.title }</h5>
-                            <form className="form-auth" id="auth">
+                            <form className="form-auth" id="auth" onSubmit={ props.onSubmit }>
                                 { props.children }
                             </form>
                         </div>
