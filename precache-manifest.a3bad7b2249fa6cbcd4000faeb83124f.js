@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/PWA-QrCode/static/js/2.f0e99674.chunk.js"
   },
   {
-    "revision": "1d73122329e01d11797bf6dcd311618a",
+    "revision": "015f1a481e00f2ab7a07fcca179e3e11",
     "url": "/PWA-QrCode/index.html"
   }
 ];
